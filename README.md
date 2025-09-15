@@ -62,7 +62,6 @@ Want to suggest a new feature, design tweak, or app to add? Contributions are we
 Licensed under the **MIT License**.  
 
 **Developed by:** [Michael Schwartz](https://michaelsboost.com/)  
-Maintained with ❤️ by the open-source community.  
 
 ---
 
