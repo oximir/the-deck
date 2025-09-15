@@ -1,6 +1,6 @@
 # 🃏 The Deck – A Hub for All Card-Based Apps
 
-![](https://raw.githubusercontent.com/michaelsboost/the-deck/main/imgs/screenshot.png)
+![](https://raw.githubusercontent.com/michaelsboost/the-deck/main/imgs/screenshot.jpeg)
 
 ## 🌟 Overview
 **The Deck** is a central hub for all my card-based web apps. Instead of hunting across links, you can explore everything here in one simple, mobile-friendly interface. Whether you’re looking to connect with strangers, laugh with friends, train survival skills, or push your skating limits—there’s a deck for you.
