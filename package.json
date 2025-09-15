@@ -1,0 +1,18 @@
+{
+  "name": "thedeck",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "build:css": "postcss src/bundle.css -o dist/bundle.css",
+    "build": "npm run build:css",
+    "serve": "http-server -c-1 -p 8081"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "cssnano": "^7.0.2",
+    "postcss": "^8.4.38",
+    "postcss-import": "^16.1.0",
+    "tailwindcss": "^3.4.4"
+  }
+}
