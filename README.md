@@ -25,6 +25,7 @@ The Deck links out to all of my card-based projects:
 - 💞 **[Couple Cards](https://github.com/michaelsboost/couplecards)** – Prompts for laughter, intimacy, and deep conversations.  
 - 🪓 **[Survival Cards](https://github.com/michaelsboost/survivalcards)** – Sharpen survival skills through prompts and discussion.  
 - 🛹 **[Skate Roulette](https://github.com/michaelsboost/skateroulette)** – Spin for random tricks, push your limits.  
+- 🛹 **[Cards on the Table](https://github.com/michaelsboost/CardsOnTheTable)** – Civil, party-agnostic prompts for tough issues.
 
 ---
 
