@@ -43,5 +43,5 @@ btn.onclick = () => {
 };
 
 // toggle modal
-share.onclick = () => modal.setAttribute('open','');
-modal.onclick = () => modal.removeAttribute('open','');
+share.addEventListener('click', () => modal.setAttribute('open',''));
+modal.addEventListener('click', () => modal.removeAttribute('open',''));
